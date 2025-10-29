@@ -17,5 +17,5 @@ It manages tasks directly from the command line and stores them in a text file.
 
 ## 🛠️ How to Run
 ```bash
-gcc priject.c -o planner
+gcc project.c -o planner
 ./planner
